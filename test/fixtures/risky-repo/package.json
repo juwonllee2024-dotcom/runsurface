@@ -1,0 +1,7 @@
+{
+  "name": "risky-fixture",
+  "scripts": {
+    "postinstall": "node scripts/prepare.js",
+    "test": "node test.js"
+  }
+}
