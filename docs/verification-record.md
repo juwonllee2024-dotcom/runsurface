@@ -23,7 +23,7 @@ Release: `v0.1.0`
 - Secret-pattern scan over project text: no matches.
 - CLI smoke: risky fixture produced 1 automatic hook, 1 agent context, 1 remote workflow, 1 manual script, and 2 container findings; the gate returned expected exit `1`.
 - Clean-scope smoke: `gate src --fail-on auto-local --format json` returned expected exit `0`.
-- CI URL: added after the first public GitHub run completes.
+- CI URL: <https://github.com/juwonllee2024-dotcom/runsurface/actions/runs/37967537793> (success; `npm ci`, verify, and audit all passed).
 
 ## Safety boundary
 
